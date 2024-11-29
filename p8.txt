@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 in tht whtf is goij on minf
 now commited so change thos
+=======
+in tht whtf is goij on minf 
+>>>>>>> 84e2012 (added now)
