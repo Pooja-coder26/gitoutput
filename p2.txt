@@ -1,2 +1,7 @@
 yeno onmdu tm iruuu
+<<<<<<< HEAD
 yenila
+=======
+
+huibgijbzetrg
+>>>>>>> demo
